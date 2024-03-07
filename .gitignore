@@ -36,3 +36,6 @@ build/
 
 ### Mac OS ###
 .DS_Store
+
+# End of https://www.gitignore.io/api/git,java,maven,eclipse,windows
+src/main/resources/application-local.properties
